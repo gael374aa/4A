@@ -5,20 +5,20 @@
 
 ---
 
-## 📘 Taller de Bases de Datos
+##  Taller de Bases de Datos
 **Reporte de Práctica:** Instalación y Configuración de Sistemas Gestores de Bases de Datos (SGBD)
 
 ---
 
-### 👥 Integrantes del Equipo:
+### Integrantes del Equipo:
 | Nombre Completo | Número de Control
 | :--- | :---: |
 | **AGUSTIN GAEL GRIJALVA MARTINEZ** | 242T0453 | 
 
 ---
 
-**Docente:** [Nombre completo del profesor(a)]  
-**Semestre :** [Ej. 5to 
+**Docente:**  
+**Semestre :** 5to 
 **Fecha de Entrega:** 29-08-2026  
 
 ---
