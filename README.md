@@ -25,7 +25,7 @@
 
 </div>
 
-## 📑 Índice de Contenidos
+##  Índice de Contenidos
 
 1. [Introducción General](docs/01_introduccion.md)
 
