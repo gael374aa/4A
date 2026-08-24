@@ -18,7 +18,7 @@
 ---
 
 **Docente:**  
-**Semestre :** 5to 
+**Semestre : 5to** 
 **Fecha de Entrega:** 29-08-2026  
 
 ---
