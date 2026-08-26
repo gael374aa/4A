@@ -4,6 +4,11 @@ Para realizar la correcta instalación del sistema de gestión de base de datos 
 El primer paso se encuentra de manera implícita, que es el descargar el sistema de la pagina oficial, una vez que se realice este paso, 
 se continua ahora si con la configuración y cada uno de los pasos a seguir una vez que se empiece a inicializar el sistema de instalación de este "recurso".
 
+## 3.1 Requisitos previos del sistema
+
+
+## 3.2 Descarga e instalación de PostgreSQL
+
 <div align="center">
   <figure>
     <img src="https://raw.githubusercontent.com/gael374aa/4A/main/4A/assets/1_instalacion.png" alt="Instalación de PostgreSQL" width="70%">
@@ -36,6 +41,8 @@ es dejar marcadas todas las casillas.
 
 En esta siguiente pantalla, se nos presentó la selección de la ruta en la cual se irán guardando cada una de las bases de datos creadas en el sistema, 
 de igual manera, lo podemos elegir directamente una carpeta desde nuestro administrador de archivos con la ayuda del botón que se encuentra a un costado.
+
+## 3.3 Configuración del superusuario y puerto
 
 <div align="center">
   <img src="/4A/assets/1_seguridad.png" alt="creación de contraseña" width="50%">
@@ -87,6 +94,10 @@ Muestra una ventana en la cual solo nos indica la confirmación de que el sistem
 <div align="center">
   <img src="/4A/assets/1_terminodeinstalar.png" alt="instalación terminada" width="50%">
 </div>
+
+## 3.4 Conexión y prueba en pgAdmin / Shell
+
+
 
 Esta pantalla corresponde a la fase final del asistente de instalación de PostgreSQL en Windows, confirmando que la instalación básica se ha completado correctamente en el sistema. En caso de que lo requieras, si marcas la casilla que se muestra en la imagen, te redirigirá a una ventana mas, esto para instalar 
 controladores adicionales que necesites.
