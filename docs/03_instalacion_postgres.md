@@ -4,5 +4,11 @@ Para realizar la correcta instalación del sistema de gestión de base de datos 
 El primer paso se encuentra de manera implícita, que es el descargar el sistema de la pagina oficial, una vez que se realice este paso, 
 se continua ahora si con la configuración y cada uno de los pasos a seguir una vez que se empiece a inicializar el sistema de instalación de este "recurso".
 
-![Instalación de PostgreSQL](./4A/assets/1_instalacion.png)
+<div align="center">
+  <figure>
+    <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/4A/assets/1_instalacion.png" alt="Instalación de PostgreSQL" width="70%">
+    <figcaption><em>Figura 1: Proceso de instalación y bienvenida de PostgreSQL.</em></figcaption>
+  </figure>
+</div>
+
 
