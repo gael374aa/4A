@@ -5,5 +5,5 @@ El primer paso se encuentra de manera implícita, que es el descargar el sistema
 se continua ahora si con la configuración y cada uno de los pasos a seguir una vez que se empiece a inicializar el sistema de instalación de este "recurso".
 
 <div align="center">
-  <img src="/4A/assets/1_instalación.png" alt="Instalación de postgreSQL" width="50%">
+  <img src="/4A/assets/1_instalacion.png" alt="Instalación de postgreSQL" width="50%">
 </div>
