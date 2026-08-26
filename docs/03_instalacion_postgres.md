@@ -6,7 +6,7 @@ se continua ahora si con la configuración y cada uno de los pasos a seguir una 
 
 <div align="center">
   <figure>
-    <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/4A/assets/1_instalacion.png" alt="Instalación de PostgreSQL" width="70%">
+    <img src="https://raw.githubusercontent.com/gael374aa/4A/main/4A/assets/1_instalacion.png" alt="Instalación de PostgreSQL" width="70%">
     <figcaption><em>Figura 1: Proceso de instalación y bienvenida de PostgreSQL.</em></figcaption>
   </figure>
 </div>
