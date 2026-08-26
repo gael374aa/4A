@@ -6,8 +6,14 @@ se continua ahora si con la configuración y cada uno de los pasos a seguir una 
 
 ## 3.1 Requisitos previos del sistema
 
+Antes de iniciar la instalación de PostgreSQL, es fundamental verificar que el entorno de hardware y software cumpla con los estándares mínimos recomendados. Esta preparación previene errores de compatibilidad y asegura un rendimiento estable del motor de base de datos.
+
+| Componente | Requisitos mínimos |
+| :----------- | -----------: |
+| Contenido    | Más contenido |   
 
 ## 3.2 Descarga e instalación de PostgreSQL
+Este paso comprende la obtención de los paquetes oficiales distribuidos para cada sistema operativo y el despliegue del servidor. En esta etapa se seleccionan los componentes esenciales que permitirán tanto el almacenamiento de datos como su administración.
 
 <div align="center">
   <figure>
@@ -43,6 +49,7 @@ En esta siguiente pantalla, se nos presentó la selección de la ruta en la cual
 de igual manera, lo podemos elegir directamente una carpeta desde nuestro administrador de archivos con la ayuda del botón que se encuentra a un costado.
 
 ## 3.3 Configuración del superusuario y puerto
+Durante la inicialización del sistema, es necesario definir la seguridad básica y los canales de comunicación. Aquí se establecen los accesos de la cuenta principal con privilegios totales y el punto de enlace de red predeterminado para las conexiones de los clientes.
 
 <div align="center">
   <img src="/4A/assets/1_seguridad.png" alt="creación de contraseña" width="50%">
@@ -96,7 +103,7 @@ Muestra una ventana en la cual solo nos indica la confirmación de que el sistem
 </div>
 
 ## 3.4 Conexión y prueba en pgAdmin / Shell
-
+Finalizado el proceso de instalación, es indispensable validar que el servicio se esté ejecutando correctamente. Esta verificación se realiza mediante entornos gráficos o consolas de comandos para confirmar la autenticación y el envío de instrucciones SQL al servidor.
 
 
 Esta pantalla corresponde a la fase final del asistente de instalación de PostgreSQL en Windows, confirmando que la instalación básica se ha completado correctamente en el sistema. En caso de que lo requieras, si marcas la casilla que se muestra en la imagen, te redirigirá a una ventana mas, esto para instalar 
