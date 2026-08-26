@@ -8,9 +8,13 @@ se continua ahora si con la configuración y cada uno de los pasos a seguir una 
 
 Antes de iniciar la instalación de PostgreSQL, es fundamental verificar que el entorno de hardware y software cumpla con los estándares mínimos recomendados. Esta preparación previene errores de compatibilidad y asegura un rendimiento estable del motor de base de datos.
 
-| Componente | Requisitos mínimos |
-| :----------- | -----------: |
-| Contenido    | Más contenido |   
+| Componente | Requisitos mínimos | Requisitos mínimos |
+| :-----------| :----------- | :----------- |
+| Sistema Operativo | Windows 10/11, macOS 11+, Linux (Ubuntu/RHEL) | Sistemas de 64 bits actualizados |
+| Memoria RAM    | 2GB | 4GB o más |
+| Espacio en disco   | 500 MB (instalador y motor) | R2 GB+ (según el volumen de datos) |
+| Permisos | Usuario con permisos elevados | Privilegios de Administrador / sudo |
+
 
 ## 3.2 Descarga e instalación de PostgreSQL
 Este paso comprende la obtención de los paquetes oficiales distribuidos para cada sistema operativo y el despliegue del servidor. En esta etapa se seleccionan los componentes esenciales que permitirán tanto el almacenamiento de datos como su administración.
