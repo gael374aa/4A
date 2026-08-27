@@ -110,6 +110,27 @@ controladores adicionales que necesites.
 ## 3.4 Conexión y prueba en pgAdmin / Shell
 Finalizado el proceso de instalación, es indispensable validar que el servicio se esté ejecutando correctamente. Esta verificación se realiza mediante entornos gráficos o consolas de comandos para confirmar la autenticación y el envío de instrucciones SQL al servidor.
 
+<div align="center">
+  <img src="../assets/images/postgreSQL/1_pantallainicio.png" alt="instalación terminada" width="50%">
+</div>
+
+Interfaz de bienvenida que se despliega al iniciar la herramienta pgAdmin 4 por primera vez. Presenta el panel principal 
+con accesos directos (Quick Links) para agregar servidores, configurar preferencias y consultar la documentación oficial de la plataforma.
+
+<div align="center">
+  <img src="../assets/images/postgreSQL/1_acceso.png" alt="instalación terminada" width="50%">
+</div>
+
+Ventana emergente de conexión al servidor local (PostgreSQL 18). En esta etapa se solicita ingresar 
+la contraseña configurada durante el proceso de instalación para validar las credenciales del usuario administrador postgres.
+
+<div align="center">
+  <img src="../assets/images/postgreSQL/1_pagprin.png" alt="instalación terminada" width="50%">
+</div>
+
+Para finalizar, se observa la vista de la consola de administración tras establecer la conexión exitosa con el servidor. En la barra lateral 
+izquierda se despliega la estructura jerárquica de la base de datos postgres, mientras que la sección derecha 
+(Dashboard) muestra las gráficas de rendimiento del sistema (sesiones activas, transacciones por segundo y lecturas/escrituras en bloque).
 
 
 
