@@ -14,6 +14,7 @@
 | Nombre Completo | Número de Control
 | :--- | :---: |
 | **AGUSTIN GAEL GRIJALVA MARTINEZ** | 242T0453 | 
+| **ISAAC SANTOS LUNA** | 242T0094 | 
 
 ---
 
