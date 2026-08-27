@@ -103,11 +103,14 @@ Muestra una ventana en la cual solo nos indica la confirmación de que el sistem
   <img src="../assets/images/postgreSQL/1_terminodeinstalar.png" alt="instalación terminada" width="50%">
 </div>
 
+Esta pantalla corresponde a la fase final del asistente de instalación de PostgreSQL en Windows, confirmando que la instalación básica se ha completado correctamente en el sistema. En caso de que lo requieras, si marcas la casilla que se muestra en la imagen, te redirigirá a una ventana mas, esto para instalar 
+controladores adicionales que necesites.
+
+
 ## 3.4 Conexión y prueba en pgAdmin / Shell
 Finalizado el proceso de instalación, es indispensable validar que el servicio se esté ejecutando correctamente. Esta verificación se realiza mediante entornos gráficos o consolas de comandos para confirmar la autenticación y el envío de instrucciones SQL al servidor.
 
 
-Esta pantalla corresponde a la fase final del asistente de instalación de PostgreSQL en Windows, confirmando que la instalación básica se ha completado correctamente en el sistema. En caso de que lo requieras, si marcas la casilla que se muestra en la imagen, te redirigirá a una ventana mas, esto para instalar 
-controladores adicionales que necesites.
+
 
 
