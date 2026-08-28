@@ -10,5 +10,19 @@ En conjunto, la práctica permitió reforzar los conocimientos relacionados con 
 
 # 5. Referencias
 
-* Obe, R., & Hsu, L. (2017). PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database (3.ª ed.). O'Reilly Media.
-* Schönig, H.-J. (2023). Mastering PostgreSQL 15. Packt Publishing.
+- Elmasri, R., & Navathe, S. B. (2016). *Fundamentals of Database Systems* (7th ed.). Pearson.
+
+- MySQL. (s. f.). *MySQL 8.4 Reference Manual: Installing and Upgrading MySQL*. Oracle.  
+  https://dev.mysql.com/doc/refman/8.4/en/installing.html
+
+- MySQL, P., & Paul DuBois. (2022). *MySQL Cookbook: Solutions for Database Developers and Administrators* (4th ed.). O'Reilly Media.
+
+- Obe, R., & Hsu, L. (2017). *PostgreSQL: Up and Running: A Practical Guide to the Advanced Open Source Database* (3rd ed.). O'Reilly Media.
+
+- pgAdmin Development Team. (s. f.). *pgAdmin 4 Documentation*.  
+  https://www.pgadmin.org/docs/
+
+- PostgreSQL Global Development Group. (s. f.). *PostgreSQL Documentation*.  
+  https://www.postgresql.org/docs/
+
+- Schönig, H.-J. (2023). *Mastering PostgreSQL 15*. Packt Publishing.
