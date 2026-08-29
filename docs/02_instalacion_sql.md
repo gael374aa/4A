@@ -187,14 +187,29 @@ Una vez aplicadas todas las tareas de configuración de manera exitosa, haga cli
 
 ### Comprobación de servicio y conexión inicial
 
-1. **Verificar Servicio en Windows:**
+1. **Verificar servicio en Windows:**
    - Presione `Win + R`, escriba `services.msc` y presione Enter.
    - Busque el servicio `MySQL` y asegúrese de que su estado indique **En ejecución** (*Running*).
 
-2. **Conexión Inicial por Línea de Comandos:**
+<div align="center">
+
+![Configuración completada](<../assets/images/mySQL/Servicios.png>)
+
+</div>
+
+
+2. **Conexión inicial por línea de comandos:**
    - Abra la consola de comandos (`cmd` o `PowerShell`).
    - Conéctese al servidor ejecutando el siguiente comando:
      ```bash
      mysql -u root -p
      ```
    - Ingrese la contraseña establecida en el **Paso 9**. Una vez autenticado, se desplegará el prompt `mysql>`, confirmando una conexión exitosa.
+  
+   
+<div align="center">
+
+![Configuración completada](<../assets/images/mySQL/Acceso.png>)
+
+</div>
+
