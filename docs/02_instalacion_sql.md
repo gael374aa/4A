@@ -10,8 +10,9 @@ Haz clic en **Next**.
 
 ### Imagen
 
-![Bienvenida a la instalación de MySQL Server](imagenes/01-bienvenida-mysql.png)
-
+<div align="center">
+  <img src="../assets/images/mySQL/1. Bienvenida a la instalacion de MySQL Server.png" alt="" width="50%">
+</div>
 ---
 
 ## Paso 2: Aceptación de términos y licencias
