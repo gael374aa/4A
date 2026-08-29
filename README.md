@@ -13,8 +13,11 @@
 ### Integrantes del Equipo:
 | Nombre Completo | Número de Control
 | :--- | :---: |
-| **AGUSTIN GAEL GRIJALVA MARTINEZ** | 242T0453 | 
-| **ISAAC SANTOS LUNA** | 242T0094 | 
+| **GRIJALVA MARTINEZ AGUSTIN GAEL** | 242T0453 | 
+| **MENDOZA ABAD JOSE ALBERTO** | 242T0087 | 
+| **SANCHEZ JIMENES JARET ISAI** | 242T0091 | 
+| **SANTOS LUNA ISAAC** | 242T0094 | 
+
 
 ---
 
